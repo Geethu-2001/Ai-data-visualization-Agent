@@ -1,0 +1,2 @@
+Get Together AI API Key="55e3b4791cbbb1094e234b474222d26ff55dcad4a89eacbcd0bd3609a2496aa2"
+Get E2B API Key="e2b_052d6b8f17c4ae6ec5d9fd29bd7d4ec6c48ce407"
